@@ -131,7 +131,7 @@
               "text": "testxss<img src=\"x\" onerror=\"alert(window.location.href)\">\"'%0aasd\"<&",
               "text_alignment": "center",
               "color_scheme": "background-1",
-              "link": "shopify:\/\/products\/testxss-img-src-x-onerror-alert1-0aasd-quot-lt-amp-ef-b9-a4-ef-bc-82-u0022-u0022-26-2334-26-2334-asd"
+              "link": "shopify:\/\/collections"
             }
           },
           "d269a2f9-8815-45d2-a727-ee1050e99a22": {
